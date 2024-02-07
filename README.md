@@ -1,6 +1,6 @@
 # portfolio_lacy
 
-A new Flutter project.
+My Portfolio Project.
 
 ## Getting Started
 
