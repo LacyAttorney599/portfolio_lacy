@@ -33,8 +33,11 @@ class MobileDesktop extends StatelessWidget {
                   children: [
                     Text(
                       'Je suis developpeur Front-End',
-                      style: TextStyle(color: Colors.white, fontSize: 35),
+                      style: TextStyle(color: Colors.white, fontSize: 20),
                     ),
+                    const Container(
+                      color: Colors.white,
+                    )
                   ],
                 ),
               )),
